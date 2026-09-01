@@ -57,7 +57,9 @@ A repository dedicated to tracking my daily progress, notes, and code as I learn
 
 ## 📁 Repository Structure
 
-* `src/` - Isolated code snippets experimenting with specific language features.
+- The 'rusty' root is a workspace with multiple packages
+  - `hello/` - First package to test hello world
+  - `guessing/` - Package for guessing game exercise in rust book
 
 ## 🛠️ Environment Setup
 
@@ -65,6 +67,12 @@ A repository dedicated to tracking my daily progress, notes, and code as I learn
 * **Compiler:** `rustc 1.98.x`
 * **Package Manager:** `cargo`
 * **Editor:** Rust Rover 2026.1.3
+
+## Useful commands
+
+- **Create**: `cargo new app_two --bin`
+- **Build**: `cargo build -p [package name]`
+- **Run**: `cargo run -p [package name]`
 
 ## 📚 Written Resources
 
