@@ -9,8 +9,6 @@ A repository dedicated to tracking my daily progress, notes, and code as I learn
 * **Total Days Active:** 1 Day
 * **Latest Milestone:** Repository setup and "Hello, World!"
 
----
-
 ## 📅 The Rust Book Daily Log
 
 ### 🟢 Getting Started & Basics
@@ -56,13 +54,10 @@ A repository dedicated to tracking my daily progress, notes, and code as I learn
 - [ ] **Day 12: Ch 11 & 12 - Testing & Building a CLI Tool**
     - Wrote unit and integration tests.
     - Built a functional `minigrep` command-line tool.
----
 
 ## 📁 Repository Structure
 
 * `src/` - Isolated code snippets experimenting with specific language features.
-
----
 
 ## 🛠️ Environment Setup
 
@@ -71,13 +66,9 @@ A repository dedicated to tracking my daily progress, notes, and code as I learn
 * **Package Manager:** `cargo`
 * **Editor:** Rust Rover 2026.1.3
 
----
-
 ## 📚 Written Resources
 
 * [The Rust Programming Language Book]([https://rust-lang.org](https://doc.rust-lang.org/book/title-page.html))
-
----
 
 ## 🎬 Videos
 
