@@ -70,7 +70,7 @@ A repository dedicated to tracking my daily progress, notes, and code as I learn
 
 ## Useful commands
 
-- **Create**: `cargo new app_two --bin`
+- **Create**: `cargo new [package name] --bin`
 - **Build**: `cargo build -p [package name]`
 - **Run**: `cargo run -p [package name]`
 
