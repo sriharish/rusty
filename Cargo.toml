@@ -1,4 +1,5 @@
 [workspace]
-members = ["guessing",
-    "hello",
+members = [
+    "1_hello",
+    "2_guessing",
 ]

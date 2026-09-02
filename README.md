@@ -5,9 +5,9 @@ A repository dedicated to tracking my daily progress, notes, and code as I learn
 ## 📊 Progress Tracker
 
 * **Start Date:** September 1, 2026
-* **Current Status:** Day 1
-* **Total Days Active:** 1 Day
-* **Latest Milestone:** Repository setup and "Hello, World!"
+* **Current Status:** Day 2
+* **Total Days Active:** 2 Day
+* **Latest Milestone:** Learned basics of io system and idiomatic program flow
 
 ## 📅 The Rust Book Daily Log
 
@@ -15,7 +15,7 @@ A repository dedicated to tracking my daily progress, notes, and code as I learn
 - [x] **Day 1: Ch 1 - Getting Started**
     - Installed `rustup`, `rustc`, and `cargo`.
     - Wrote "Hello, World!" manually and via Cargo.
-- [ ] **Day 2: Ch 2 - Programming a Guessing Game**
+- [x] **Day 2: Ch 2 - Programming a Guessing Game**
     - Built a CLI game using `std::io` and the `rand` crate.
     - Learned about variables, associated functions, and `match`.
 - [ ] **Day 3: Ch 3 - Common Programming Concepts**
@@ -58,15 +58,15 @@ A repository dedicated to tracking my daily progress, notes, and code as I learn
 ## 📁 Repository Structure
 
 - The 'rusty' root is a workspace with multiple packages
-  - `hello/` - First package to test hello world
-  - `guessing/` - Package for guessing game exercise in rust book
+  - `1_hello/` - First package to test hello world
+  - `2_guessing/` - Package for guessing game exercise in rust book
 
 ## 🛠️ Environment Setup
 
 * **OS:** [e.g., macOS / Ubuntu / Windows]
 * **Compiler:** `rustc 1.98.x`
 * **Package Manager:** `cargo`
-* **Editor:** Rust Rover 2026.1.3
+* **Editor:** Rust Rover 2026.2.1
 
 ## Useful commands
 
