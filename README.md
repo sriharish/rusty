@@ -4,10 +4,10 @@ A repository dedicated to tracking my daily progress, notes, and code as I learn
 
 ## 📊 Progress Tracker
 
-* **Start Date:** September 1, 2026
-* **Current Status:** Day 2
-* **Total Days Active:** 2 Day
-* **Latest Milestone:** Learned basics of io system and idiomatic program flow
+* **Start Date:** September 1st, 2026
+* **Current Day:** September 2nd, 2026
+* **Total Days Active:** 2 Days
+* **Latest Milestone:** Learned basics of mutability amd shadowing
 
 ## 📅 The Rust Book Daily Log
 
@@ -60,10 +60,11 @@ A repository dedicated to tracking my daily progress, notes, and code as I learn
 - The 'rusty' root is a workspace with multiple packages
   - `1_hello/` - First package to test hello world
   - `2_guessing/` - Package for guessing game exercise in rust book
+  - `3_common/` - Package for sandboxing common language features in rust book
 
 ## 🛠️ Environment Setup
 
-* **OS:** [e.g., macOS / Ubuntu / Windows]
+* **OS:** Windows
 * **Compiler:** `rustc 1.98.x`
 * **Package Manager:** `cargo`
 * **Editor:** Rust Rover 2026.2.1
