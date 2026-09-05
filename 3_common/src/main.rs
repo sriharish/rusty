@@ -4,9 +4,10 @@ use std::io;
 const THREE_HOURS_IN_SECONDS: u32 = 60 * 60 * 3;
 
 fn main() {
-    mutability();
-    shadow();
-    data_types();
+    // mutability();
+    // shadow();
+    // data_types();
+    // fun();
 }
 
 // mutability sample
@@ -109,4 +110,13 @@ fn data_types() {
     let element = a[index];
 
     println!("The value of the element at index {index} is: {element}");
+}
+
+fn fun() {
+    let x = plus_one(5);
+
+    println!("The value of x is: {x}");
+    fn plus_one(x: i32) -> i32 {
+        x + 1
+    }
 }
