@@ -5,8 +5,8 @@ A repository dedicated to tracking my daily progress, notes, and code as I learn
 ## 📊 Progress Tracker
 
 * **Start Date:** September 1st, 2026
-* **Current Day:** September 3rd, 2026
-* **Total Days Active:** 3 Days
+* **Current Day:** September 4th, 2026
+* **Total Days Active:** 4 Days
 * **Latest Milestone:** Learned basics of scalar and compound data types
 
 ## 📅 The Rust Book Daily Log
@@ -18,7 +18,7 @@ A repository dedicated to tracking my daily progress, notes, and code as I learn
 - [x] **Day 2: Ch 2 - Programming a Guessing Game**
     - Built a CLI game using `std::io` and the `rand` crate.
     - Learned about variables, associated functions, and `match`.
-- [ ] **Day 3: Ch 3 - Common Programming Concepts**
+- [x] **Day 3: Ch 3 - Common Programming Concepts**
     - Studied variables, mutability, constants, and shadowing.
     - Explored scalar/compound data types, functions, and control flow.
 
