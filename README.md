@@ -18,7 +18,7 @@ A repository dedicated to tracking my daily progress, notes, and code as I learn
 - [x] **Day 2: Ch 2 - Programming a Guessing Game**
     - Built a CLI game using `std::io` and the `rand` crate.
     - Learned about variables, associated functions, and `match`.
-- [ ] **Day 3: Ch 3 - Common Programming Concepts**
+- [x] **Day 3: Ch 3 - Common Programming Concepts**
     - Studied variables, mutability, constants, and shadowing.
     - Explored scalar/compound data types, functions, and control flow.
 
