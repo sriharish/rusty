@@ -5,9 +5,9 @@ A repository dedicated to tracking my daily progress, notes, and code as I learn
 ## 📊 Progress Tracker
 
 * **Start Date:** September 1st, 2026
-* **Current Day:** September 4th, 2026
-* **Total Days Active:** 4 Days
-* **Latest Milestone:** Learned basics of scalar and compound data types
+* **Current Day:** September 5th, 2026
+* **Total Days Active:** 5 Days
+* **Latest Milestone:** Learned basics of functions, statements and expressions
 
 ## 📅 The Rust Book Daily Log
 
