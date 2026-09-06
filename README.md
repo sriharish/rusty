@@ -61,6 +61,7 @@ A repository dedicated to tracking my daily progress, notes, and code as I learn
   - `1_hello/` - First package to test hello world
   - `2_guessing/` - Package for guessing game exercise in rust book
   - `3_common/` - Package for sandboxing common language features in rust book
+  - `4_branches/` - Package for sandboxing control flow features in rust book
 
 ## 🛠️ Environment Setup
 
